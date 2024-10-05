@@ -17,7 +17,7 @@ The goal of this project is to create a platform that promotes decentralized, di
 1. Once the code is compiled, click on the Deploy and run transactions button just below it.
 2. Under environment, you can select Injected provider Or else you can choose Remix VM which is an inbuilt deployment by Remix-IDE. 
   - Deploying using Injected Provider
-    1. Ensure your metamask wallet is connected to Remix-IDE.
+    1. Ensure your metamask wallet is connected to Remix-IDE and has sufficient balance.
     2. Select a network(Mainnet or any other Testnet)
     3. Click on deploy button.
     4. Your metamask will pop up and ask for confirmation. Click on confirm.
